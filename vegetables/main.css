@@ -1,0 +1,25 @@
+/* Color Theme Swatches in Hex */
+.theme_vegetables-1-hex { color: #5A7302; }
+.theme_vegetables-2-hex { color: #F2B90F; }
+.theme_vegetables-3-hex { color: #F27507; }
+.theme_vegetables-4-hex { color: #A60303; }
+.theme_vegetables-5-hex { color: #6C6C88; }
+
+/* Color Theme Swatches in RGBA */
+.theme_vegetables-1-rgba { color: rgba(90, 115, 2, 1); }
+.theme_vegetables-2-rgba { color: rgba(242, 185, 15, 1); }
+.theme_vegetables-3-rgba { color: rgba(242, 117, 7, 1); }
+.theme_vegetables-4-rgba { color: rgba(166, 3, 3, 1); }
+.theme_vegetables-5-rgba { color: rgba(108, 108, 136, 1); }
+
+/* Color Theme Swatches in HSLA */
+.theme_vegetables-1-hsla { color: hsla(73, 96, 22, 1); }
+.theme_vegetables-2-hsla { color: hsla(44, 89, 50, 1); }
+.theme_vegetables-3-hsla { color: hsla(28, 94, 48, 1); }
+.theme_vegetables-4-hsla { color: hsla(0, 96, 33, 1); }
+.theme_vegetables-5-hsla { color: hsla(240, 11, 47, 1); }
+
+/* class for sticky footer */
+.is-fullheight-100vh {
+    height: 100vh;
+}
