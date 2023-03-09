@@ -1,20 +1,67 @@
 /* Color Theme Swatches in Hex */
-.Access-Inspiration-1-hex { color: #505248; }
-.Access-Inspiration-2-hex { color: #DDDDC0; }
-.Access-Inspiration-3-hex { color: #A11E17; }
-.Access-Inspiration-4-hex { color: #19303A; }
-.Access-Inspiration-5-hex { color: #CD9B3F; }
+.Access-Inspiration-1-hex {
+    color: #505248;
+}
+
+.Access-Inspiration-2-hex {
+    color: #DDDDC0;
+}
+
+.Access-Inspiration-3-hex {
+    color: #A11E17;
+}
+
+.Access-Inspiration-4-hex {
+    color: #19303A;
+}
+
+.Access-Inspiration-5-hex {
+    color: #CD9B3F;
+}
 
 /* Color Theme Swatches in RGBA */
-.Access-Inspiration-1-rgba { color: rgba(80, 82, 72, 1); }
-.Access-Inspiration-2-rgba { color: rgba(221, 221, 192, 1); }
-.Access-Inspiration-3-rgba { color: rgba(161, 30, 23, 1); }
-.Access-Inspiration-4-rgba { color: rgba(25, 48, 58, 1); }
-.Access-Inspiration-5-rgba { color: rgba(205, 155, 63, 1); }
+.Access-Inspiration-1-rgba {
+    color: rgba(80, 82, 72, 1);
+}
+
+.Access-Inspiration-2-rgba {
+    color: rgba(221, 221, 192, 1);
+}
+
+.Access-Inspiration-3-rgba {
+    color: rgba(161, 30, 23, 1);
+}
+
+.Access-Inspiration-4-rgba {
+    color: rgba(25, 48, 58, 1);
+}
+
+.Access-Inspiration-5-rgba {
+    color: rgba(205, 155, 63, 1);
+}
 
 /* Color Theme Swatches in HSLA */
-.Access-Inspiration-1-hsla { color: hsla(72, 6, 30, 1); }
-.Access-Inspiration-2-hsla { color: hsla(60, 29, 80, 1); }
-.Access-Inspiration-3-hsla { color: hsla(3, 75, 36, 1); }
-.Access-Inspiration-4-hsla { color: hsla(198, 39, 16, 1); }
-.Access-Inspiration-5-hsla { color: hsla(38, 58, 52, 1); }
+.Access-Inspiration-1-hsla {
+    color: hsla(72, 6, 30, 1);
+}
+
+.Access-Inspiration-2-hsla {
+    color: hsla(60, 29, 80, 1);
+}
+
+.Access-Inspiration-3-hsla {
+    color: hsla(3, 75, 36, 1);
+}
+
+.Access-Inspiration-4-hsla {
+    color: hsla(198, 39, 16, 1);
+}
+
+.Access-Inspiration-5-hsla {
+    color: hsla(38, 58, 52, 1);
+}
+
+/* class for sticky footer */
+.is-fullheight-100vh {
+    height: 100vh;
+}
