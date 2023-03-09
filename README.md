@@ -1,2 +1,1 @@
-# color-themes
-Repository of Color Themes
+# Repository of Color Themes
